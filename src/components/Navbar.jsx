@@ -10,7 +10,7 @@ function Navbar() {
         <div>
           <img src={Logo} alt="Food_Wagon_Logo" className="h-12" />
         </div>
-        <div className="flex gap-4 text-[#F17228] font-medium ">
+        <div className="flex gap-4 text-[#726963] font-medium ">
           <p className="cursor-pointer font-semibold p-2">
             <NavLink to="/">Home</NavLink>
           </p>
