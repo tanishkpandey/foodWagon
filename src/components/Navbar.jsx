@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from "react";
 import Logo from "../assets/Logo.png";
 import { FaUser, FaShoppingCart } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
