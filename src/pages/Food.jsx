@@ -14,7 +14,7 @@ const generateFoodData = (count) => {
     "https://via.placeholder.com/150",
     "https://via.placeholder.com/150",
     "https://via.placeholder.com/150",
-  ];
+  ];    
 
   for (let i = 0; i < count; i++) {
     const randomLocation =
